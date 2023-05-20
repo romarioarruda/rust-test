@@ -11,7 +11,7 @@
 **Gerenciamento de dependências**:
 - [Cargo package manager](https://doc.rust-lang.org/cargo/index.html)
 
-**Buildando o projeto**:
+**Buildar o projeto**:
 ```
 cargo build
 ```
