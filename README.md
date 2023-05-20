@@ -9,7 +9,7 @@
 - [Garbage Collector](https://www.youtube.com/watch?v=SZqp3_Mw9zk)
 
 **Gerenciamento de dependências**:
-- [Cargo package maneger](https://doc.rust-lang.org/cargo/index.html)
+- [Cargo package manager](https://doc.rust-lang.org/cargo/index.html)
 
 **Buildando o projeto**:
 ```
