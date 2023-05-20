@@ -1,6 +1,6 @@
 fn find_proposito(linguagem: &str) -> &str {
     return match linguagem {
-        "PHP" | "php" => "Web development",
+        _ if linguagem.to_lowercase() == "php" => "Web development",
         "Python" => "Machine Learning",
         _ => "Desconhecido"
     };
