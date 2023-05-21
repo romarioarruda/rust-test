@@ -23,5 +23,11 @@ fn main() {
     println!("Nota 10: {}", match notas_v2.get(10) {
         Some(n) => *n,
         None => 0.0
-    })
+    });
+
+    println!("=======================");
+    for nota in notas {
+        println!("Nota: {}", nota)
+    }
+    println!("=======================");
 }
